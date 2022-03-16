@@ -1,0 +1,42 @@
+nav{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-family: 'Fredoka', sans-serif;
+}
+a{
+    color:#fff;
+    padding: 0 2em 0 2em;
+}
+header{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    background-color: rgba(0, 0, 0, 0.226);
+    height: 40px;
+    padding: 2em 0 2em 0;
+    
+}
+
+a:link {text-decoration: none;}
+a:hover {
+    font-size: 21px;
+    color: #ffe139;
+    transition: .4s ease;
+}
+
+
+body{
+    background-image: url(./image/ousama.webp);
+    background-size: cover;
+    background-attachment: fixed;
+    
+    
+}
+.nome{
+    font-family: 'Siemreap', cursive;
+
+}
