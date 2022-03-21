@@ -21,7 +21,7 @@ div{
     background-color:rgb(77, 77, 255,0.7);
     margin: 30px;
     width: 200px;
-    height: 300px;
+    height: 350px;
     border-radius: 15px;
     border-width: 2px;
     border-style: solid;
@@ -66,4 +66,14 @@ a {
 }
 #daida:hover{
     background-color: rgb(255, 255, 0, 0.9);
+}
+.força{
+    list-style: url("https://img.icons8.com/ios/20/000000/battle.png");
+}
+.agilidade{
+    list-style: url("https://img.icons8.com/ios-glyphs/20/000000/rabbit.png");
+}
+.conhecimento{
+    list-style: url("https://img.icons8.com/ios-filled/20/000000/knowledge-sharing.png");
+
 }

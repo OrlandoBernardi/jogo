@@ -1,0 +1,13 @@
+section{
+    width:90%;
+}
+
+h2 {
+    font-family: 'Love Ya Like A Sister', cursive;
+    display: flex;  
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+    margin-left: 5  px;
+}
+
