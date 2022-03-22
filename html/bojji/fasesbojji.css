@@ -18,8 +18,8 @@ section{
     justify-content: center;
     border-style: solid;
     background-color: rgb(255, 255, 255,0.2);
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(50px);
+    -webkit-backdrop-filter: blur(50px);
     width: 70%;
     height: 60%;
     border-radius: 15px;
