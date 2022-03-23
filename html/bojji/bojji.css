@@ -1,6 +1,6 @@
 body{
     display: flex;
-    background-image: url(/css/image/bojiFundo.jpeg);
+    background-image: url(../../css/image/bojiFundo.jpeg);
     background-size: cover;
     background-attachment: fixed;
     width: 100%;

@@ -1,6 +1,6 @@
 body{
     display: flex;
-    background-image: url(/html/daida/img/daidaFundo.jpeg);
+    background-image: url(../../../html/daida/img/daidaFundo.jpeg);
     background-size: cover;
     background-attachment: fixed;
     width: 100%;
