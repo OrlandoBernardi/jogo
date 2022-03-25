@@ -1,5 +1,5 @@
 body{
-    background-image: url(../img/daidaGameOver.jpeg);
+    background-image: url(../img/daidaFases.jpeg);
     background-attachment: fixed;
     background-size: cover;
 }
@@ -17,18 +17,18 @@ section{
     justify-content: center;
     border-style: solid;
     background-color: rgb(102, 102, 102,0.2);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
     width: 70%;
     height: 60%;
     border-radius: 15px;
     font-size: 25px;
 }
 p{  
-    margin-left: 10px;
     display: flex;
     justify-content: center;
     text-align: justify;
-    padding: 0px;
-    font-size: 40px;
+    padding: 10px;
     font-family: 'Love Ya Like A Sister', cursive;
 
 }
